@@ -1,0 +1,118 @@
+{
+    "api": "http://dev.timepad.ru/api/get-v1-dictionary-event-categories/",
+    "url": "https://api.timepad.ru/v1/dictionary/event_categories",
+    "response": {
+        "values": [
+            {
+                "id": "217",
+                "name": "Бизнес",
+                "tag": "business"
+            },
+            {
+                "id": "374",
+                "name": "Кино",
+                "tag": "cinema"
+            },
+            {
+                "id": "376",
+                "name": "Спорт",
+                "tag": "sport"
+            },
+            {
+                "id": "379",
+                "name": "Для детей",
+                "tag": "kids"
+            },
+            {
+                "id": "382",
+                "name": "Иностранные языки",
+                "tag": "languages"
+            },
+            {
+                "id": "399",
+                "name": "Красота и здоровье",
+                "tag": "beauty"
+            },
+            {
+                "id": "452",
+                "name": "ИТ и интернет",
+                "tag": "it"
+            },
+            {
+                "id": "453",
+                "name": "Психология и самопознание",
+                "tag": "psychology"
+            },
+            {
+                "id": "456",
+                "name": "Еда",
+                "tag": "food"
+            },
+            {
+                "id": "457",
+                "name": "Вечеринки",
+                "tag": "party"
+            },
+            {
+                "id": "458",
+                "name": "Выставки",
+                "tag": "exhibition"
+            },
+            {
+                "id": "459",
+                "name": "Театры",
+                "tag": "theater"
+            },
+            {
+                "id": "460",
+                "name": "Концерты",
+                "tag": "concert"
+            },
+            {
+                "id": "461",
+                "name": "Экскурсии и путешествия",
+                "tag": "trip"
+            },
+            {
+                "id": "462",
+                "name": "Другие события",
+                "tag": "other_event"
+            },
+            {
+                "id": "463",
+                "name": "Другие развлечения",
+                "tag": "other_entertainment"
+            },
+            {
+                "id": "524",
+                "name": "Хобби и творчество",
+                "tag": "hobby"
+            },
+            {
+                "id": "525",
+                "name": "Искусство и культура",
+                "tag": "art"
+            },
+            {
+                "id": "1315",
+                "name": "Образование за рубежом",
+                "tag": "education_abroad"
+            },
+            {
+                "id": "1940",
+                "name": "Гражданские проекты",
+                "tag": "civil"
+            },
+            {
+                "id": "2335",
+                "name": "Интеллектуальные игры",
+                "tag": "intellekt"
+            },
+            {
+                "id": "2465",
+                "name": "Наука",
+                "tag": "science"
+            }
+        ]
+    }
+}

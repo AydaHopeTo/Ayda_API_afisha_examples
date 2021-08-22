@@ -1,0 +1,155 @@
+{
+    "api": "http://dev.timepad.ru/api/get-v1-events/",
+    "url": "https://api.timepad.ru/v1/events?cities=Казань&limit=10&sort=starts_at&",
+    "response" : {
+        "total": 295,
+        "values": [
+            {
+                "id": 1697603,
+                "starts_at": "2021-08-14T10:00:00+0300",
+                "name": "Аудиоэкскурсия по Казанскому Кремлю: многолетняя история, древние постройки и загадочные легенды",
+                "url": "https://wegotrip.timepad.ru/event/1697603/",
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1697721,
+                "starts_at": "2021-08-14T10:00:00+0300",
+                "name": "Аудиоэкскурсия по Казани: познакомиться с городом и отведать местную кухню",
+                "url": "https://wegotrip.timepad.ru/event/1697721/",
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1697837,
+                "starts_at": "2021-08-14T10:00:00+0300",
+                "name": "Аудиоэкскурсия: Фотопрогулка по непарадной Казани",
+                "url": "https://wegotrip.timepad.ru/event/1697837/",
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1697935,
+                "starts_at": "2021-08-14T10:00:00+0300",
+                "name": "Аудиоэкскурсия в приложении: &amp;quot;Городские легенды Казани&amp;quot;",
+                "url": "https://wegotrip.timepad.ru/event/1697935/",
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1711500,
+                "starts_at": "2021-08-14T10:00:00+0300",
+                "name": "Фестиваль современной поэзии «Слэм»",
+                "url": "https://slam.timepad.ru/event/1711500/",
+                "poster_image": {
+                    "default_url": "https://ucare.timepad.ru/6b60c5a6-7ef4-4f78-835a-c6c3f0fafd55/-/preview/308x600/-/format/jpeg/poster_event_1711500.jpg",
+                    "uploadcare_url": "//ucare.timepad.ru/6b60c5a6-7ef4-4f78-835a-c6c3f0fafd55/"
+                },
+                "categories": [
+                    {
+                        "id": 525,
+                        "name": "Искусство и культура"
+                    }
+                ],
+                "moderation_status": "featured"
+            },
+            {
+                "id": 1729383,
+                "starts_at": "2021-08-14T10:00:00+0300",
+                "name": "Казань: путешествие с Ловцом времени",
+                "url": "https://cityvoice92.timepad.ru/event/1729383/",
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "featured"
+            },
+            {
+                "id": 1734765,
+                "starts_at": "2021-08-14T15:00:00+0300",
+                "name": "Клуб &quot;Читашки&quot;: книга Джулии Дональдсон &quot;Верхом на помеле&quot;",
+                "url": "https://nbrt.timepad.ru/event/1734765/",
+                "poster_image": {
+                    "default_url": "https://ucare.timepad.ru/18ca6e1e-de55-49ae-8395-11c852ce5b82/-/preview/308x600/-/format/jpeg/poster_event_1734765.jpg",
+                    "uploadcare_url": "//ucare.timepad.ru/18ca6e1e-de55-49ae-8395-11c852ce5b82/"
+                },
+                "categories": [
+                    {
+                        "id": 379,
+                        "name": "Для детей"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1703966,
+                "starts_at": "2021-08-14T17:00:00+0300",
+                "name": "Экскурсия с очками виртуальной реальности &quot;Окно в прошлое: Центр Казани&quot;",
+                "url": "https://zagadki-kazani.timepad.ru/event/1703966/",
+                "poster_image": {
+                    "default_url": "https://ucare.timepad.ru/ec1bf39a-f957-42e4-b5aa-4d9b2c393dfa/-/preview/308x600/-/format/jpeg/poster_event_1703966.jpg",
+                    "uploadcare_url": "//ucare.timepad.ru/ec1bf39a-f957-42e4-b5aa-4d9b2c393dfa/"
+                },
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1731750,
+                "starts_at": "2021-08-14T17:00:00+0300",
+                "name": "Лекция &quot;Как выбрать школу. Навигатор для родителей&quot;",
+                "url": "https://nbrt.timepad.ru/event/1731750/",
+                "poster_image": {
+                    "default_url": "https://ucare.timepad.ru/f81a8d0e-d3bf-45e6-9e70-e72fb6887fcf/-/preview/308x600/-/format/jpeg/poster_event_1731750.jpg",
+                    "uploadcare_url": "//ucare.timepad.ru/f81a8d0e-d3bf-45e6-9e70-e72fb6887fcf/"
+                },
+                "categories": [
+                    {
+                        "id": 525,
+                        "name": "Искусство и культура"
+                    }
+                ],
+                "moderation_status": "shown"
+            },
+            {
+                "id": 1726582,
+                "starts_at": "2021-08-14T21:05:00+0300",
+                "name": "Ночная экскурсия по закоулкам Дома татарской книги",
+                "url": "https://tatbookhouse.timepad.ru/event/1726582/",
+                "categories": [
+                    {
+                        "id": 461,
+                        "name": "Экскурсии и путешествия"
+                    }
+                ],
+                "moderation_status": "shown"
+            }
+        ]
+    }
+}

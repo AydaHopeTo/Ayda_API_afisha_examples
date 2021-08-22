@@ -1,0 +1,93 @@
+{
+    "api": "http://dev.timepad.ru/api/get-v1-events-event-id",
+    "url": "https://api.timepad.ru/v1/events/1726582",
+    "response": {
+        "id": 1726582,
+        "created_at": "2021-08-02T13:51:19+0300",
+        "starts_at": "2021-08-14T21:05:00+0300",
+        "ends_at": "2021-08-14T22:05:00+0300",
+        "name": "Ночная экскурсия по закоулкам Дома татарской книги",
+        "status": "ok",
+        "description_short": "Какие секреты не рассказывают посетителям обычных экскурсий? Где хранятся библиотеки писателей Кави Наджми и Шарифа Камала? Как в Доме татарской книги разместился детский дом? На ночной экскурсии узнаем об этом и не только.\n\nСтоимость билета - 300 рублей. Оплата на кассе наличными или картой.",
+        "description_html": "<p>Здание на Островского, 15 всегда было пристанищем интеллектуалов и творческой интеллигенции. У этого дома невероятно насыщенная история, а в лабиринте многочисленных комнат и дверей можно легко запутаться. Дом татарской книги, который ныне занимает это интересное здание, приглашает вас на специальную ночную экскурсию, на которой вы увидите совсем другую историю этого места.</p>\n\n<p>Вам расскажут о купцах, владевших домами на улице Вознесенской, необычных элементах декора, покажут квартиру элитного татарского писателя и познакомят с библиотеками классиков татарской литературы.</p>\n\n<p>Стоимость билета — 300 рублей (с учетом входного билета). Оплата на кассе музея наличными или картой.</p>\n",
+        "url": "https://tatbookhouse.timepad.ru/event/1726582/",
+        "ad_partner_percent": 0,
+        "locale": "ru",
+        "location": {
+            "country": "Россия",
+            "city": "Казань",
+            "address": "Островского, 15"
+        },
+        "organization": {
+            "id": 259378,
+            "name": "Дом татарской книги",
+            "description_html": "Дом татарской книги - это музейное и культурно-просветительское пространство, включающее в себя музей истории татарской литературы, мемориальную квартиру татарского писателя Шарифа Камала, книжный магазин &quot;Кулъязма&quot;, типографию и коворкинг-зону. ",
+            "url": "https://tatbookhouse.timepad.ru/",
+            "logo_image": {
+                "default_url": "https://ucare.timepad.ru/4fc22688-bc2c-45cf-9fa9-5d0845ada696/-/preview/308x600/-/format/jpeg/-/preview/308x600/-/format/jpeg/logo_org_259378.jpg",
+                "uploadcare_url": "//ucare.timepad.ru/4fc22688-bc2c-45cf-9fa9-5d0845ada696/"
+            },
+            "subdomain": "tatbookhouse"
+        },
+        "categories": [
+            {
+                "id": 461,
+                "name": "Экскурсии и путешествия"
+            }
+        ],
+        "tickets_limit": 0,
+        "ticket_types": [
+            {
+                "id": 4155851,
+                "name": "Билет на экскурсию",
+                "description": "Стоимость ночной экскурсии - 300 рублей. Оплата наличными или картой на кассе",
+                "buy_amount_min": 1,
+                "buy_amount_max": 30,
+                "price": 0,
+                "is_promocode_locked": false,
+                "remaining": 25,
+                "sale_ends_at": "2021-08-14T22:05:00+0300",
+                "is_active": true,
+                "ad_partner_profit": 0,
+                "send_personal_links": false,
+                "status": "ok"
+            }
+        ],
+        "questions": [
+            {
+                "field_id": "subscribe_digest",
+                "name": "Хочу получать рекомендации интересных событий от TimePad",
+                "type": "check",
+                "is_mandatory": false,
+                "is_for_every_visitor": false,
+                "meta": {
+                    "block": true
+                }
+            }
+        ],
+        "age_limit": "16",
+        "widgets": {
+            "custom": {
+                "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"1726582\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true}; })();\n</script>"
+            },
+            "button": {
+                "code_html": "<script type=\"text/javascript\" async=\"async\" defer=\"defer\" charset=\"UTF-8\" src=\"https://timepad.ru/js/tpwf/loader/min/loader.js\" data-timepad-widget-v2=\"event_register\">\n\t(function(){return {\"event\":{\"id\":\"1726582\"},\"bindEvents\":{\"preRoute\":\"TWFpreRouteHandler\"},\"isInEventPage\":true,\"iframe\":{\"height\":0},\"hidePreloading\":true,\"initialRoute\":\"button\"}; })();\n</script>"
+            }
+        },
+        "properties": [
+            "timepad_letter_checkbox",
+            "recurring"
+        ],
+        "moderation_status": "shown",
+        "access_status": "public",
+        "registration_data": {
+            "price_max": 0,
+            "price_min": 0,
+            "sale_ends_at": "2021-08-14T22:05:00+0300",
+            "tickets_total": 0,
+            "is_registration_open": true
+        },
+        "is_sending_free_tickets": false,
+        "reservation_period": "48"
+    }
+}
